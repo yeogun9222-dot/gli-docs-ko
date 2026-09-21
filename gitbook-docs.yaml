@@ -1,10 +1,6 @@
-# yaml-language-server: $schema=https://api.gitbook.com/gitbook-docs.yaml
 $schema: https://api.gitbook.com/gitbook-docs.yaml
-version: 1
-
 site:
   title: GLI Docs
-
   structure:
     - type: space
       key: gli-docs-ko
