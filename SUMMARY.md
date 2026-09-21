@@ -12,8 +12,5 @@
 ## 멤버십
 * [멤버십 단계](membership/tiers.md)
 
-## 백서
-* [플랫폼 구조](whitepaper/platform-structure.md)
-
 ## 안내
 * [FAQ](vision/faq.md)
