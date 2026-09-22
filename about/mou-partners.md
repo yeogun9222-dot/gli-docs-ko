@@ -41,5 +41,13 @@ GLI가 MOU(업무협약)를 통해 협업 중인 파트너사 목록입니다. �
 | TSL Foods | Seven Eleven 식품 제조 회사 | 태국 | 라용 | 태국 식품 국내 편의점 내 유통 협업 |
 | Alta Exchange | Pnb (정미경 부회장) | 필리핀 | 바탐 | STO 거래소 협업 관련 |
 
+## 언론 보도로 확인된 협약
+
+| 파트너사 | 보도일 | 협약 내용 요약 | 기사 |
+|---|---|---|---|
+| ERA Vietnam | 2025-11-26 | Web3 기반 RWA 생태계 구축 MOU, 거주·휴양용 부동산 시범 프로젝트 추진 | [기사 보기](https://kinhdoanhvathitruong.net/gli-vietnam-va-era-vietnam-ky-ket-bien-ban-ghi-nho-hop-tac-xay-dung-he-sinh-thai-tai-san-thuc-web3.html) |
+| Dealflow | 2025-11-12 | 베트남 RWA 소싱 파이프라인 구축 MOU, 호치민 리조트·부동산 RWA 파일럿 추진 | [기사 보기](https://m.thebigdata.co.kr/view.php?ud=2025111217370234439aeda69934_23) |
+| Seafood Club / Atlantis Manor | 2025-12-11 | 태국 레저(L) 부문 확장 MOU, 태국 프리미엄 휴양 자산(Seafood Club Bangsaen, Atlantis Manor) 연계 | [기사 보기](https://m.thebigdata.co.kr/view.php?ud=2025121116375918839aeda69934_23) |
+
 ---
-*출처: GLI_보도기사 송출 관련_260922.xlsx (대표님 제공, 2026-09-22 기준). 보도기사 송출 여부와 무관하게 MOU 협업 관계 기준으로 정리.*
+*출처: GLI_보도기사 송출 관련_260922.xlsx (대표님 제공, 2026-09-22 기준) + 언론 보도 원문. 보도기사 송출 여부와 무관하게 MOU 협업 관계 기준으로 정리.*
